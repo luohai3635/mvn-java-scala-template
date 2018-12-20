@@ -47,6 +47,6 @@
     <logger name="org.apache" level="WARN"/>
     <logger name="org.springframework" level="WARN"/>
 
-    <logger name="com.hesperus.quickstart" level="@log.level@"/>
+    <logger name="com.com.hesperus.quickstart" level="@log.level@"/>
 
 </configuration>

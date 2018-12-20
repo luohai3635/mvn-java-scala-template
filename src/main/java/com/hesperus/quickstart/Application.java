@@ -1,9 +1,11 @@
 package com.hesperus.quickstart;
 
+import com.hesperus.ScalaEcho;
 public class Application {
 
     public static void main(String[] args) {
-        System.out.println("Hello quickstart");
+        Echo.echo("Hello quickstart");
+        ScalaEcho.echo("Hello From ScalaEcho Object!!!");
     }
 
 }

@@ -20,7 +20,7 @@
     </appender>
 
     <!-- 自定义的日志分类，根据实际情况调整 -->
-    <category name="com.hesperus.quickstart" additivity="false">
+    <category name="com.com.hesperus.quickstart" additivity="false">
         <level value="@log.level@" />
         <appender-ref ref="CONSOLE" />
         <!-- <appender-ref ref="FILE" /> -->
